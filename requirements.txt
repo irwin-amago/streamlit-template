@@ -6,6 +6,7 @@ keplergl
 leafmap
 localtileserver
 nbserverproxy
+rasterio
 streamlit
 streamlit-option-menu
 
